@@ -1,0 +1,101 @@
+.navbar-toggler{
+    color: white !important;
+    background-color: silver !important;
+
+}
+
+
+.navbar-toggler:hover{
+    color: silver !important;
+    background-color: white !important;
+}
+
+.abc{
+    background-color: orange !important;
+    color: white !important;
+    
+}
+
+.abc:hover{
+    background-color: white !important;
+    color: orange !important;
+}
+
+.form-control{
+    border: 2px solid black !important;
+    
+}
+
+
+.nav-link:hover{
+
+    color: grey !important;
+
+}
+
+.container-fluid{
+    border-bottom:  3px solid silver ;
+}
+  
+.nav-link{
+    font-size: 25px !important;
+    margin: 30px  ;
+}
+
+.navbar-expand-lg {
+    position: sticky !important ;
+    top: 0 !important ;
+    z-index: 100;
+}
+
+.carousel-item{
+    /* max-width: 1000px; */
+}
+
+.Paragraph-a-carousel {
+ 
+    background-color: springgreen !important;
+    border-top: 2px solid aquamarine !important;
+    border-bottom: 2px solid aquamarine;
+    
+
+}
+
+.Paragraph-a-carousel p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-weight: bold;
+}
+   
+
+.paragraph-a-center{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.paragraph-a-center > p { 
+    margin-top: 100px;
+    font-weight: bolder;
+    font-size: xx-large;
+    
+}
+
+.hey{
+    background-color: springgreen;
+    margin-top: 20px;
+    border: 2px solid green;
+    border-radius: 30px;
+}
+
+.card{
+    margin: auto !important;
+    margin-top: 20px !important;
+
+
+}
+
+.abb{
+    margin: auto !important;
+    margin-top: 20px !important;
+}
+
